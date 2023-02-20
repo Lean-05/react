@@ -37,9 +37,20 @@
     transform: rotate(360deg);
   }
 }
-.info{
+
+.info {
   text-align: initial;
 }
-.generos{
+
+.generos {
   padding-left: 2rem;
+}
+
+.tex {
+  text-align: center;
+  margin-top: 1rem;
+}
+.text{
+  text-align: center;
+  margin-top: 1rem;
 }
